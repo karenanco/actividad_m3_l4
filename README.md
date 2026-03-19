@@ -1,1 +1,3 @@
 # actividad_m3_l4
+La diferencia principal que encontré entre FOR y WHILE es que la primera se usa cuando se sabe de antemano el número de iteraciones, mientras que while depende de una condición lógica que puede cambiar en cualquier momento.
+Respecto a la utilidad de BREAK y CONTINUE, ambas me han parecido fundamentales para controlar el flujo. Mientras break permite detener un ciclo inmediatamente al cumplir un objetivo, continue ayuda a ignorar datos específicos sin detener el proceso completo.
